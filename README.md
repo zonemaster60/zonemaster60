@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 [![zonemaster60's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonemaster60)](https://github.com/zonemaster60/github-readme-stats)
 
-[![PayPal Donate](https://paypal.me/DavidScouten?locale.x=en_US&country.x=US)]
+[[PayPal Donate](https://paypal.me/DavidScouten?locale.x=en_US&country.x=US)]
