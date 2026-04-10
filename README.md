@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![zonemaster60's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonemaster60)](https://github.com/zonemaster60/github-readme-stats)
 
 [[Donate to David's PayPal.me (optional)](https://paypal.me/DavidScouten?locale.x=en_US&country.x=US)]
